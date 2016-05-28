@@ -1,0 +1,99 @@
+Sorted input edges:
+
+Ni	Nj	cost
+2	4	1
+6	7	2
+9	8	2
+8	6	2
+4	3	3
+1	6	3
+6	4	3
+3	5	4
+5	7	5
+3	2	5
+1	2	6
+
+MST Edges:
+Ni	Nj	cost
+2	4	1
+
+InWhichSet array: 1 2 3 2 5 6 7 8 9 
+
+
+MST Edges:
+Ni	Nj	cost
+2	4	1
+6	7	2
+
+InWhichSet array: 1 2 3 2 5 6 6 8 9 
+
+
+MST Edges:
+Ni	Nj	cost
+2	4	1
+9	8	2
+6	7	2
+
+InWhichSet array: 1 2 3 2 5 6 6 8 8 
+
+
+MST Edges:
+Ni	Nj	cost
+2	4	1
+8	6	2
+9	8	2
+6	7	2
+
+InWhichSet array: 1 2 3 2 5 6 6 6 6 
+
+
+MST Edges:
+Ni	Nj	cost
+2	4	1
+8	6	2
+9	8	2
+6	7	2
+4	3	3
+
+InWhichSet array: 1 2 3 2 5 6 6 6 6 
+
+
+MST Edges:
+Ni	Nj	cost
+2	4	1
+8	6	2
+9	8	2
+6	7	2
+1	6	3
+4	3	3
+
+InWhichSet array: 1 2 3 2 5 1 1 1 1 
+
+
+MST Edges:
+Ni	Nj	cost
+2	4	1
+8	6	2
+9	8	2
+6	7	2
+6	4	3
+1	6	3
+4	3	3
+
+InWhichSet array: 1 2 3 2 5 1 1 1 1 
+
+
+MST Edges:
+Ni	Nj	cost
+2	4	1
+8	6	2
+9	8	2
+6	7	2
+6	4	3
+1	6	3
+4	3	3
+3	5	4
+
+InWhichSet array: 1 2 3 2 3 1 1 1 1 
+
+

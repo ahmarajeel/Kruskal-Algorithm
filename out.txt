@@ -1,0 +1,13 @@
+Number of Nodes is: 9
+
+Ni	Nj	cost
+2	4	1
+8	6	2
+9	8	2
+6	7	2
+6	4	3
+1	6	3
+4	3	3
+3	5	4
+
+Total cost is: 20
